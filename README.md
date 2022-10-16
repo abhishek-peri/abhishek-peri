@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhishek-peri
 - 👀 I’m interested in AI, computer vision and robotics
 - 🌱 I’m currently learning blockchain
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Computer Vision projects
 - 📫 How to reach me : peri.abhishek0@gmail.com
 
 <!---
